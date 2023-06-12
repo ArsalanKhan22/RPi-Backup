@@ -1,1 +1,2 @@
 # RPi-Backup
+A Raspberry Pi backup refers to the process of creating a copy or snapshot of the entire system, including the operating system, configurations, installed software, and user data, in order to preserve it for future use or as a safeguard against data loss or system failure. Having a backup ensures that you can easily restore your Raspberry Pi to a previous working state or transfer the setup to another device if needed.
